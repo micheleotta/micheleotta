@@ -5,6 +5,9 @@ on:
       # every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
   
 jobs:
   generate:
