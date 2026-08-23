@@ -8,3 +8,7 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michele-otta-718a15334/" alt="LinkedIn"/></a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/micheleotta/micheleotta/output/snake.gif" alt="Snake animation" />
+</p>
