@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/micheleotta/micheleotta/output/snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/micheleotta/micheleotta/gh-pages/snake.gif" alt="Snake animation" />
 </p>
