@@ -31,6 +31,7 @@
   <a href="https://www.linkedin.com/in/michele-otta-718a15334/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+ 
   <a href="mailto:micheleotta@gmail.com">
     <img src="https://img.shields.io/badge/Email-micheleotta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
