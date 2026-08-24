@@ -1,7 +1,7 @@
 ## Hi, I'm Michele! 👋
 🎓 Computer Science and Information Systems Student
 
-💻 Interested in Machine Learning, NLP, Software Development, and Data Science
+ 🌸 Interested in Machine Learning, NLP, Software Development, and Data Science
 
 ## 💻 Technologies
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -16,7 +16,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Find Me
+## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-otta-718a15334/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micheleotta@gmail.com)
 
