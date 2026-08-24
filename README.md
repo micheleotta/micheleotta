@@ -1,4 +1,4 @@
-## Hi, I'm Michele! 👋
+# Hi, I'm Michele! 👋
 🎓 Computer Science and Information Systems Student
 
  🌸 Interested in Machine Learning, NLP, Software Development, and Data Science
