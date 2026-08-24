@@ -27,8 +27,14 @@
 
 
 ## Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-otta-718a15334/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micheleotta@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/michele-otta-718a15334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:micheleotta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-micheleotta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/micheleotta/micheleotta/gh-pages/snake.gif" alt="Snake animation" />
